@@ -1,4 +1,4 @@
-# Jupyter-Resturant-
+
 # Data Analysis Project
 
 This is a simple data analysis project that uses Python and popular data science libraries to explore and visualize hospital data. The project includes data preprocessing, analysis, and visualization.
